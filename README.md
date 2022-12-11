@@ -35,6 +35,7 @@ If you like or are using this project to learn or start your solution, please gi
     - [Protocol buffers (Protobuf)](https://developers.google.com/protocol-buffers/docs/overview)
     - [gRPC](https://grpc.io/docs/what-is-grpc/introduction)
     - [JavaScript](https://www.w3schools.com/js)
+    - [Web3 (Web 3.0)](https://ethereum.org/en/web3)
 
 3. Blockchain Fundamentals
 
